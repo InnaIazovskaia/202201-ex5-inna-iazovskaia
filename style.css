@@ -11,3 +11,14 @@ body {
 .header__ul {
   list-style-type: none;
 }
+.button-start {
+  border-radius: 30px;
+  border: none;
+  background: rgb(86, 197, 173);
+  color: white;
+}
+.button-start:hover {
+  border: 1px solid rgb(86, 197, 173);
+  background: white;
+  color: rgb(86, 197, 173);
+}
